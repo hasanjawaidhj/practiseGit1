@@ -1,0 +1,3 @@
+world
+working
+new change for stash checking
